@@ -3,7 +3,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NaimaMunir)
 
-<hr style="border:2px solid gray">
+<hr style="border:2px solid blue">
 
 
 ## Have a look at my data portfolio
