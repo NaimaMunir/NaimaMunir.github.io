@@ -1,5 +1,5 @@
 # Welcome to my page!
-##### [Connect with mw on LinkedIn](www.linkedin.com/in/naimamunir) 
+##### [Connect with me on LinkedIn](www.linkedin.com/in/naimamunir) 
 
 
 
