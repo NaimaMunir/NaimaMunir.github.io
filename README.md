@@ -6,7 +6,7 @@
 <hr style="border:2px solid gray">
 
 
-## Have a look at my data portfolio.
+## Have a look at my data portfolio
 
 
 ## [Road Accident Analysis](https://naimamunir17.wixsite.com/naimamunir)
