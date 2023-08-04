@@ -4,3 +4,4 @@ description: I am passionate about discovering trends and information hidden in 
 #show_downloads: true
 linkedin: naimamunir
 theme: jekyll-theme-minimal
+social_links: { platform: linkedin,       user_url: "www.linkedin.com/in/naimamunir" }
