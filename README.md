@@ -1,4 +1,5 @@
 # Welcome to my page!
+![](/assets/LinkedIn.png)      ![](/assets/github-mark.png)    
 
 
 ## Have a look at my data portfolio.
