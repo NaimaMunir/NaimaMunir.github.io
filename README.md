@@ -3,6 +3,8 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NaimaMunir)
 
+------
+
 
 
 ## Have a look at my data portfolio.
