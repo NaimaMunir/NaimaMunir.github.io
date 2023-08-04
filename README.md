@@ -1,5 +1,6 @@
 # Welcome to my page!
-![](/assets/LinkedIn.png)      ![](/assets/github-mark.png)    
+##### [Connect with mw on LinkedIn](www.linkedin.com/in/naimamunir) 
+
 
 
 ## Have a look at my data portfolio.
