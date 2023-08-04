@@ -4,5 +4,5 @@ description: I am passionate about discovering trends and information hidden in 
 #show_downloads: true
 linkedin: naimamunir
 theme: jekyll-theme-minimal
-social_links: { platform: linkedin,       user_url: "www.linkedin.com/in/naimamunir" }
+social_links: { platform: linkedin, user_url: "www.linkedin.com/in/naimamunir" }
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
