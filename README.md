@@ -1,7 +1,7 @@
 # Welcome to my page!
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/naimamunir)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NaimaMunir)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NaimaMunir) &ensp;
 [Resume](https://www.canva.com/design/DAFqmrlbjpo/U-mMVP0WN0S2H6bmTte3aA/view?utm_content=DAFqmrlbjpo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ----
