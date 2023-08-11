@@ -10,7 +10,7 @@
 ## Have a look at my data portfolio
 
 
-## [Road Accident Analysis](https://naimamunir17.wixsite.com/naimamunir)
+## [Road Accident Analysis](https://www.linkedin.com/pulse/road-accident-analysis-excel-naima-munir%3FtrackingId=y4CiOf3NPGRdmyzi1gzu9w%253D%253D/?trackingId=y4CiOf3NPGRdmyzi1gzu9w%3D%3D)
 ![](/assets/Dashboard_final_roadAccidnets.png)
 In this project I used Excel visualizations to analyze casualties caused by road accidents in year 2021-2022. At the end I created an interactive dashboard to present my findings. [Read more about the project >>](https://www.linkedin.com/pulse/road-accident-analysis-excel-naima-munir%3FtrackingId=y4CiOf3NPGRdmyzi1gzu9w%253D%253D/?trackingId=y4CiOf3NPGRdmyzi1gzu9w%3D%3D)
 
