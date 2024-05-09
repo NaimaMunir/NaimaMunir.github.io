@@ -17,7 +17,7 @@ In this project I used Excel visualizations to analyze casualties caused by road
 
 
 ## [Insights at a Glance: Real Estate Data Analysis with Tableau](https://www.linkedin.com/pulse/insights-glance-real-estate-data-analysis-tableau-naima-munir-igurf/?trackingId=S5Myk1WnS%2Fi8dhHylhGkgw%3D%3D)
-![](/assets/2024-05-08 (5).png)
+![](/assets/realestate_dashboard.png)
  In this project I have leveraged the dynamic capabilities of Tableau to visualize property pricing trends and fluctuations, factors affecting property prices and geospatial distribution of properties.  [Read more about the project >>](https://www.linkedin.com/pulse/insights-glance-real-estate-data-analysis-tableau-naima-munir-igurf/?trackingId=igv9BIOKSK2s3NX0fLmbsw%3D%3D)
 
 
