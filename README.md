@@ -25,6 +25,9 @@ In this project I used Excel visualizations to analyze casualties caused by road
 
 
 
+## [Flu Shot Data Analysis with SQL: Revealing Trends and Patterns](https://www.linkedin.com/pulse/flu-shot-data-analysis-sql-revealing-trends-patterns-naima-munir-abn5f/?trackingId=oEl7ljrmSGKMOcG%2BR0sksQ%3D%3D)
+
+In this project I analyze flu shot data using SQL and uncover valuable insights that shed light on vaccination rates, demographic trends, and more.  [Read more about the project >>](https://www.linkedin.com/pulse/flu-shot-data-analysis-sql-revealing-trends-patterns-naima-munir-abn5f/?trackingId=oEl7ljrmSGKMOcG%2BR0sksQ%3D%3D)
 
 
 
